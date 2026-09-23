@@ -1,0 +1,19 @@
+{
+  "logo": "https://i.imgur.com/IUZsfep.png",
+  "down": {
+    "color": "#4b362a",
+    "title": "🔧 WEBSITE UNDER MAINTENANCE",
+    "description": "Website **{label}** is currently experiencing issues.\n\n🛠️ **Status:** Under repair\n⏳ **Progress:** Fix in progress\n\nPlease wait until the website is back online. We'll post an update once the repair is complete.\n\nThank you for your patience! 🤎",
+    "image": "",
+    "thumbnail": "",
+    "footer": "Condo Servers • Maintenance"
+  },
+  "up": {
+    "color": "#4fd88a",
+    "title": "✅ WEBSITE IS BACK ONLINE",
+    "description": "Website **{label}** is accessible again.\n\n🟢 **Status:** Online\n⚡ **Response:** {ms}ms\n\nThank you for your patience! 🤎",
+    "image": "",
+    "thumbnail": "",
+    "footer": "Condo Servers • Online"
+  }
+}
